@@ -1,4 +1,4 @@
-var title = "Jon";
+var title = "Jon and james bros";
 
 var websiteTitle = {
 
